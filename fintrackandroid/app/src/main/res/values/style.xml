@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="round9">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">9px</item>
+        <item name="color">@color/white</item>
+    </style>
+
+    <style name="round24">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24px</item>
+        <item name="color">@color/white</item>
+    </style>
+
+
+    <style name="round18">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">18px</item>
+        <item name="color">@color/white</item>
+    </style>
+
+</resources>

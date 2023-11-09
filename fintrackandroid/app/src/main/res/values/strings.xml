@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fintrackandroid</string>
+    <string name="name">MARTIN SIAGIAN</string>
+    <string name="app_title">Financial Tracker</string>
+    <string name="add_card">ADD CARD</string>
+    <string name="setting">SETTING</string>
+</resources>
